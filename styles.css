@@ -2,3 +2,8 @@ h1{
     color: blueviolet;
     font-size: 45px;
 }
+
+#h2{
+    color: chartreuse;
+    text-decoration:wavy;
+}
